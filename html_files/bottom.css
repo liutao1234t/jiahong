@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+/* KISSY CSS Reset */
+footer.footer{width:100%;margin:0px auto;background:#f5f5f5;padding-bottom:15px;}
+.bottom_top{padding:30px 10px 10px;border-bottom:1px solid #e5e5e5;text-align:center;}
+.bottom_top dl dd{display:inline-block;width:75px;margin:0px 3%;}
+.bottom_top dl dd span{display:block;width:40px;height:40px;margin:0px auto;}
+.bottom_top dl dd em{display:block;color:#666;font-size:12px;font-family:"微软雅黑";line-height:30px;text-align:center;}
+.bottom_t_t{text-align:center;color:#666;font-size:13px;font-family:"微软雅黑";line-height:30px;margin-top:5px;}
+.bottom_t_t a{color:#666;margin:0px 14px;}
+.bottom_t_tr{text-align:center;color:#999999;font-size:12px;font-family:"微软雅黑";line-height:30px;margin-top:5px;}
+.bottom_top dl dd:first-child span{background:url(/resources/images/sd_mnb.png) 0px 0px no-repeat;background-size:279px 40px;}
+.bottom_top dl dd:nth-child(2) span{background:url(/resources/images/sd_mnb.png) -120px 0px no-repeat;background-size:279px 40px;}
+.bottom_top dl dd:nth-child(3) span{background:url(/resources/images/sd_mnb.png) -239px 0px no-repeat;background-size:279px 40px;}
